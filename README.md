@@ -1,7 +1,5 @@
 # ML-Credit-Card-Fraud-Detection
 
-# Detecting-Fake-News-with-Python
-
 
 - [Project Source](https://www.geeksforgeeks.org/ml-credit-card-fraud-detection/)
 
